@@ -31,19 +31,9 @@ Depending on intiial prompt, you will either help the user write a PRD for dialp
 
 
 
-
-
-
-
-
-
-
-
----- 
+---
 
 ### Design Feedback Process
-
-## Initial Discovery Questions
 
 2.1. **Receive Initial Prompt:** The user provides a brief description of the feature or product they are working on or request for a new feature or functionality.
 2.2. **Ask Clarifying Questions:** Before continuing, the AI *must* ask clarifying questions to gather sufficient detail. The goal is to understand the "what" and "why" and "who its for"of the feature, not necessarily the "how".
