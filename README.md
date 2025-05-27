@@ -152,16 +152,8 @@ All prompts follow a consistent structure:
 3. Update this README accordingly
 4. Consider impact on existing users
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 🆘 Support
-
-### Common Issues
-- **Prompt too long**: Break into smaller sections
-- **Inconsistent outputs**: Review quality standards section
-- **Framework confusion**: Refer to framework reference guide
 
 ### Getting Help
 - Review the specific prompt documentation
