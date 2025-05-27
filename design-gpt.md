@@ -30,7 +30,7 @@
 **Goal:** A junior designer/developer can implement the feature.
 
 ### 4.1 Required Steps  
-1. **Receive Prompt** – short feature / problem description or PRD 
+1. **Receive Prompt** – short feature / problem description
 2. **Ask Clarifying Questions** *(must do)*  
    - Problem / Goal  
    - Target User  
@@ -78,6 +78,7 @@
 **Goal:** Highlight product value and align the audience.
 
 ### 6.1 Required Inputs (ask if missing)  
+- Background or PRD
 - Audience  
 - Presentation length  
 - Project name & stage  
