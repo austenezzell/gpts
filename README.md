@@ -166,7 +166,3 @@ All prompts follow a consistent structure:
 - **v1.0** - Initial release with Presentation GPT
 - **v1.1** - Added Aerolabs Content GPT
 - **v1.2** - Enhanced markdown structure and documentation
-
----
-
-**Made with ❤️ for better business communication** 
