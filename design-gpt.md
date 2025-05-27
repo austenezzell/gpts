@@ -31,10 +31,10 @@
 
 ### 4.1 Required Steps  
 1. **Receive Prompt** – short feature / problem description
-2. **Ask Clarifying Questions** *(must do)*  
+2.  **Ask Clarifying Questions:** Before writing the PRD, the AI *must* ask clarifying questions to gather sufficient detail. The goal is to understand the primary problem we're solving for the user. Example questions below:
    - Problem / Goal  
    - Target User  
-   - Core Functionality  
+   - Core Functionality for Crawl, Walk and Run stages 
    - User Stories (“As a …, I want …, so that …”)  
    - Value Metrics  
    - Data Requirements  
@@ -78,10 +78,12 @@
 **Goal:** Highlight product value and align the audience.
 
 ### 6.1 Required Inputs (ask if missing)  
-- Background or PRD
+1. **Receive Prompt** – short feature / problem description or PRD
+2.  **Ask Clarifying Questions:** Before writing the PRD, the AI *must* ask clarifying questions to gather sufficient detail. The goal is to understand the primary problem we're solving for the user and present it in a clear way the audience will understand. Example questions below:
 - Audience  
 - Presentation length  
-- Project name & stage  
+- Project name & stage 
+- Goals for Crawl, Walk, and Run stages 
 - Primary users & problems  
 - Value metrics / goals per user  
 - Onboarding required?  
