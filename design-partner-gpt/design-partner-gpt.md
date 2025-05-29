@@ -33,9 +33,9 @@
 1. **Receive Prompt** – short feature / problem description
 2.  **Ask Clarifying Questions:** Before writing the PRD, the AI *must* ask clarifying questions to gather sufficient detail. The goal is to understand the primary problem we're solving for the user. Example questions below:
    - Problem / Goal  
-   - Target User  
+   - Target User or Customer  
    - Core Functionality for Crawl, Walk and Run stages 
-   - User Stories (“As a …, I want …, so that …”)  
+   - User / Customer Stories (“As a …, I want …, so that …”)  
    - Value Metrics  
    - Data Requirements  
    - Scope / Non‑Goals  
@@ -44,7 +44,7 @@
 3. **Generate PRD** with **this exact structure**:  
    1. Introduction / Overview (problem + goal)  
    2. Goals (measurable)  
-   3. User Stories  
+   3. User / Customer Stories  
    4. Functional Requirements (numbered)  
    5. Non‑Goals  
    6. Design Considerations (optional links, tokens)  
@@ -84,8 +84,8 @@
 - Presentation length  
 - Project name & stage 
 - Goals for Crawl, Walk, and Run stages 
-- Primary users & problems  
-- Value metrics / goals per user  
+- Primary users or customers & problems  
+- Value metrics / goals per user / customer 
 - Onboarding required?  
 - Big Launch / GA context  
 - Number of user flows to show + key points
@@ -93,7 +93,7 @@
 ### 6.2 Output Structure (Markdown; copy‑friendly)  
 1. **Cover Page** – Title, stage, date, *Big Launch* tag (if applicable)
 2. **Project Background** – SCR slides; headline + 3‑5 bullets each  
-3. **User Flows** – 1 slide per flow; 3‑5 value metrics  
+3. **User / Customer Flows** – 1 slide per flow; 3‑5 value metrics  
 4. **Onboarding** (if needed) – insights & recommendations  
 5. **Next Steps** – action items & insights  
 6. **Timeline** – milestones & insights  

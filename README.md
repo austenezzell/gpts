@@ -20,6 +20,22 @@ A comprehensive presentation assistant that helps create structured, compelling 
 - Team motivation and culture presentations
 - VC pitches and investor updates
 
+### 🎨 [Design Partner GPT](design-partner-gpt/design-partner-gpt.md)
+A specialized design assistant that provides guidance and feedback aligned with Dialpad's design principles and brand guidelines.
+
+**Key Features:**
+- Expert on design, Dialpad brand, and Dialtone system
+- Three workflow tracks (PRD Process, Design Feedback, Presentation Framework)
+- Structured information gathering process
+- Actionable, brand-aligned critique
+- Concise design presentation outlines
+
+**Use Cases:**
+- Creating detailed Product Requirements Documents
+- Getting feedback on UI/UX designs
+- Preparing design presentation frameworks
+- Ensuring brand compliance
+
 ### 🏢 [Aerolabs Content GPT](aerolabs-in-product-content-gpt.md)
 A specialized copywriter for creating realistic workplace dialogues for a fictional sustainable logistics company.
 
